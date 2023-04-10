@@ -2,7 +2,6 @@
 Tarea APROXIMACIÓN DEL NÚMERO PI
 Por: Robert Reyes Mardones
 RUT: 19219070-3
-10/04/23
  
 '''
 
